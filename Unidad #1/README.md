@@ -1,16 +1,4 @@
 # Aleatoridad
-
-## Actividad 2
-```js
-function draw() {                       Then draw() loops forever and ever (until you quit).
-
-  walker.step();
-  walker.show();                         Call functions on the walker.
-}
-```
-
-- Como el background esta definido en setup(), lo que entiendo es que en draw() dibujamos los pasos de walker y tambien los mostramos para que se pueda ser visible desde el background, esto lo hace de manera infinita en todas las direcciones, en la variable step esta definido el factor aleatorio.
-
 ________________________________________________________________________________________________________________________________________________
 
 ## Actividad 7 - Navegar la incertidumbre
