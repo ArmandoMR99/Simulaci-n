@@ -201,7 +201,9 @@ Me guié muchísimo del texto guía de la materia para entender la lógica de la
 
 - ***Estructura del código:*** Me ayudó a ordenar el desorden de variables que tenía al inicio, organizando todo de forma limpia y cuadrando la función para centrar el formato 9:16.
 
-### 5. 
+### 5. Enlace al prototipo
+
+- https://editor.p5js.org/ArmandoMR99/sketches/myB1YRf9k
 
 
 
