@@ -194,7 +194,7 @@ Me guié muchísimo del texto guía de la materia para entender la lógica de la
 - https://editor.p5js.org/ArmandoMR99/sketches/myB1YRf9k
 
 
-
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fbe5c9db-f0ae-4961-9846-65acd44b98ae" />
 
 
 
