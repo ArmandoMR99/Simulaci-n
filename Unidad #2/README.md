@@ -13,11 +13,24 @@ Quiero explorar la tensión entre el deseo de poder para proteger y la destrucci
 
 
 ## Diseño del Sistema
+### Tipo de Partículas
+1. Spider-Man
+2. Simbionte Único (Venom)
+3. Miles Morales
+4. Civiles
+5. Civiles Corruptos
+
+Elegí estos cinco tipos de partículas para que el conflicto no se quede solo en una idea abstracta, sino que realmente cobre vida a través de personajes bien definidos: el héroe tentado, el elemento corruptor, el héroe incorruptible, las víctimas inocentes y la manifestación del caos; la idea es que la narrativa visual sea tan clara que cualquiera pueda identificar de inmediato quién es quién y qué está pasando en la escena.
 
 
+## Cantidad de Partículas
+1. 1 Spider-Man
+2. 1 Simbionte Único
+3. 1 Miles Morales
+4. 140 Civiles (iniciales)
+5. Variable (Civiles Corruptos)
 
-
-
+Elegí solo un individuo para Spider-Man, el Simbionte y Miles para dejar clara su relevancia y mostrar que el conflicto principal es totalmente personal, haciendo que sus interacciones destaquen frente al resto. En contraste, incluí a 140 civiles para reflejar la fragilidad del entorno y el enorme daño colateral, creando una masa social orgánica que reaccione con pánico y haga evidente la verdadera escala de la tragedia cuando la infección se propaga.
 
 
 
