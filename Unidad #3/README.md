@@ -1,6 +1,6 @@
 # Reto #3: Instrumento Visual para "LesAlpx"
 [App desplegada](https://armandomr99.github.io/Unidad-3/)
-Para la parte visual, me fui por algo minimalista, estilo caligrafía japonesa (Shodo). Básicamente, tinta negra moviéndose en un fondo blanco limpio, jugando a full con el contraste.
+- Para la parte visual, me fui por algo minimalista, estilo caligrafía japonesa (Shodo). Básicamente, tinta negra moviéndose en un fondo blanco limpio, jugando a full con el contraste.
 
 ## Flujo del Proyecto
 1. El cerebro (main.js): Es donde escucho el teclado. Aquí programé los "Actos" de la canción y puse el Lerp (la transición suave) para que, al cambiar de fuerza, el sistema no se trabe y todo se sienta fluido.
