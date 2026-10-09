@@ -103,13 +103,13 @@ Quiero explorar la transición entre el caos polirrítmico individual y la crist
 ## Autoevaluación
 | Criterio | Peso | Valoración | Aporte |
 | :--- | :---: | :---: | :---: |
-| Leí y verifiqué que mi proyecto cumple con los requisitos mínimos de la unidad. | 25% | 100% | Cumple con 8 agentes, 8 muestras MP3, K modificable, 2 modos performativos, perturbación y 3 estados de R. |
+| Leí y verifiqué que mi proyecto cumple con los requisitos mínimos de la unidad. | 25% | 85% | Cumple con 7 agentes, 7 muestras MP3, K modificable, 2 modos performativos, perturbación y 3 estados de R. |
 | Puedo explicar claramente qué representa cada variable del modelo de Kuramoto en mi proyecto. | 25% | 100% | theta = ciclo/fase visual-sonora, omega = ritmo base armónico, K = acoplamiento de la red, R = masaarmónica. |
 | Puedo explicar claramente cómo las variables del modelo producen el comportamiento observado en mi proyecto. | 25% | 100% | Demostrable en la transición de la polirritmia desordenada al acorde unificado cuando K supera el umbral crítico. |
 | Puedo demostrar que mi proyecto cumple con los objetivos establecidos en la unidad. | 25% | 100% | Kuramoto no es reemplazable por un reloj estático; la música y la geometría emergen dinámicamente del acoplamiento. |
 | **Total** | **100%** | **—** | **100** |
 
-Nota propuesta: 5.0 (100 ÷ 20)
+Nota propuesta: 4.8 (100 ÷ 20)
 
 
 
