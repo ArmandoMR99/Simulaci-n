@@ -1,5 +1,10 @@
 # Reto 5: Forum
 
+[Evento Forum](https://armandomr99.github.io/ForumBoceto/)
+
+<img width="2439" height="1307" alt="image" src="https://github.com/user-attachments/assets/e9991a90-b788-4762-aa98-b9711cfb2356" />
+
+
 ## 1. Punto de partida
 
 El reto de esta unidad era entender los sistemas de partículas como elementos que se relacionan entre sí, no como un montón de efectos bonitos. Así que la pregunta con la que arranqué fue: ¿cómo hago para que el movimiento diga algo del discurso y no solo lo decore?
