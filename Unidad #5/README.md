@@ -16,6 +16,19 @@ Algunas decisiones que tomé:
 - Texto primero. La interfaz va en una capa aparte, por encima del canvas, con un velo oscuro suave detrás del texto para que se lea bien incluso en un proyector.
 
 
+## 3. Gramática Visual
+
+| Elemento o comportamiento | Qué significa dentro del discurso |
+| :--- | :--- |
+| Anillos con ruido de Perlin | Algo vivo que respira: la idea de que un espacio puede abrirse y cambiar |
+| Retícula intermitente | Estructuras rígidas, el auditorio pensado solo para una cosa |
+| Tres atractores con enjambre | Academia, industria y ciudad compartiendo un mismo centro de gravedad |
+| Red de hilos que palpitan | Comunidad y confianza: nada se sostiene solo, todo está conectado |
+| Campo de flujo | Rutas que se abren, corrientes que cambian de dirección |
+| Hélice de dos colores | Dos generaciones enlazadas que giran juntas, ninguna reemplaza a la otra |
+| Topografía en relieve | El futuro como terreno que se va construyendo |
+| Dorado y azul ultravioleta | Experiencia y nuevas generaciones, en el mismo universo visual |
+| Borrado total entre slides | Cada momento empieza limpio, sin restos del anterior |
 
 
 
