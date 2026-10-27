@@ -31,10 +31,40 @@ Algunas decisiones que tomé:
 | Borrado total entre slides | Cada momento empieza limpio, sin restos del anterior |
 
 
+## 4. Storyboard: 13 elementos
+
+| Momento | Qué se dice | Qué pasa en pantalla |
+| :--- | :--- | :--- |
+| 1. Introducción | Relevo generacional: la ventaja que nadie está aprovechando | Anillos líquidos que respiran. Algo vivo está por empezar |
+| 02. El paradigma | ¿Un gran auditorio solo para hacer grados? | Retícula rígida con partículas que saltan a la cuadrícula. Todo ordenado, todo igual |
+| 03. Transición | La Universidad decidió encontrarse con el mundo | Vuelven los anillos orgánicos: la estructura se ablanda |
+| 04. Convergencia | Academia + Industria + Ciudad | Enjambre atraído por tres centros que se mueven despacio |
+| 05. Propósito | Los eventos nunca fueron el objetivo, el impacto sí | Mismo enjambre, pero con la foto del evento al lado: lo que importa es lo que queda |
+| 06. Comunidad | Un evento trae personas, una comunidad trae transformación | Red de nodos con hilos que palpitan |
+| 07. Confianza | El talento crece a la velocidad de la confianza | La red sigue, sin foto: solo texto y conexiones |
+| 08. Rutas | La experiencia construye el camino, las nuevas generaciones descubren rutas | Corrientes de partículas que siguen un campo de flujo |
+| 09. Integración | Una visión. Dos generaciones. | Hélice de dos colores girando en pantalla |
+| 10. Trabajo conjunto | Ocurre cuando trabajan juntas | La hélice sigue; la foto muestra el espacio real |
+| 11. Presente | Los jóvenes son el presente | Hélice y foto del ecosistema de la industria |
+| 12. Futuro | El futuro no se hereda, se construye | Topografía en relieve que se mueve como terreno vivo |
+| 13. Continuidad | @centrodeeventosupb | La topografía sigue, con los QR para quedarse conectados |
 
 
+## 5. ¿Cómo construye significado el sistema?
 
+Una partícula sola solo se mueve. Cuando varias comparten un centro, dejan hilos entre ellas o giran enlazadas, empiezan a decir cosas: comunidad, confianza, colaboración, construcción.
+La progresión que armé va así: algo vivo → estructuras rígidas → apertura → convergencia → comunidad → rutas nuevas → dos generaciones enlazadas → futuro en construcción. Es la misma historia de la charla, contada con movimiento.
+Lo que más me importaba: en ningún momento una escena "reemplaza" a la anterior de forma agresiva. Cada una nace limpia, pero la paleta, la tipografía y la manera de moverse se mantienen, para que se sienta como un mismo universo que va cambiando.
 
+## 6. AutoEvaluación
+
+| Criterio | Puntaje | Justificación |
+| :--- | :--- | :--- |
+| Cumplimiento del encargo | 24/25 | El sistema cumple de sobra con los 13 momentos del guion, la integración de las fotos institucionales y la navegación web fluida en pantalla completa. |
+| Relaciones estructurales | 23/25 | Logré conectar bien las matemáticas de los elementos con conceptos como redes y campos de flujo, aunque me hubiera gustado profundizar aún más en las dependencias físicas entre nodos. |
+| Comportamiento y significado | 22/25 | Las transiciones logran acompañar la narrativa de Alma, pero reconozco que en algunas escenas la paleta de colores o el ritmo visual podrían comunicar el mensaje de forma todavía más directa. |
+| Explicación y demostración | 23/25 | El repositorio en GitHub Pages funciona perfecto y puedo justificar cada línea de código, aunque me costó un poco más estructurar la documentación técnica inicial. |
+| **Total** | **92/100** | **Equivale a 4.6/5.0** |
 
 
 
