@@ -1,43 +1,72 @@
-# Bitácora · Why Bother?
+# Why Bother?
+### Bitácora - Unidad 8
 
-## 1. ¿Cómo interpreté la pregunta?
+**[Ver la obra](https://armandomr99.github.io/Unidad-8/)** 
 
-Para mí sí vale la pena tomarse el trabajo. La IA puede generar el código, pero no pone lo humano: la parte creativa, buscar referentes, el tiempo que alguien se toma por otros (como el profesor preparando las unidades aunque muchos no lo escuchen).
+---
 
-Al principio lo pensé como humano contra IA: agentes libres que al cruzar al otro lado se vuelven rígidos. Mientras lo diseñaba cambió: me di cuenta de que eso decía que la IA es mala, y yo no pienso eso. Por eso agregué que los agentes que vuelven con ayuda se convierten en algo único que mezcla los dos lados. Ahí está mi respuesta: no es elegir uno, es que lo humano no se pierda.
+Cuando el profesor nos contó que él también se preguntaba si valía la pena preparar el curso, sabiendo que nosotros podemos pedirle todo a una IA, lo primero que pensé fue que sí vale la pena. La IA puede escribir el código, pero no busca referentes para otros, no se queda pensando qué nos puede servir, no insiste cuando nadie escucha. Eso lo pone una persona.
 
-## 2. ¿Cómo lo exploré?
+También tengo que ser honesto: lo que me hizo seguir en el curso fue, primero, que necesitaba aprobar. Y segundo, que aunque uno use la IA, algo de lo que hace se le queda grabado y le sirve después.
 
-Primero diseñé la obra y después le pedí a Claude que la convirtiera en código. Lo hice a propósito: si mi idea es que la IA pone el código y uno pone lo humano, la obra debía hacerse así.
+Con el tiempo llegué a algo más: que no se trata de elegir entre uno mismo y la máquina. Uno aprende de ella, y cuando le pone su propia mano a lo aprendido, sale algo que ninguno de los dos habría hecho solo. Eso es lo que cuenta la obra.
 
-Decisiones que tomé:
-- Que fuera una presentación por teclas (0 a 7).
-- Que al cruzar mantengan su color pero se vuelvan rígidos.
-- Que el lado IA haga copias rígidas y genéricas del lado humano.
-- Que los que vuelven sean piezas únicas: flores, copos, girasoles, notas musicales.
-- Dos finales: uno donde nadie ayuda y otro donde alguien sí.
-- Cerrar solo con la pregunta y la respuesta al profesor.
-- Usar three.js pero dejar el 3D solo para lo importante (cuando algo se vuelve único).
+---
 
-Técnicas: ruido de Perlin, fuerzas, partículas, bandada de Reynolds y curvas matemáticas para las piezas.
+## La obra
 
-Al probarla, todos los agentes cruzaban casi al mismo tiempo porque la bandada los arrastraba juntos. Se cambió para que cada uno ceda en su propio momento.
+Es una película corta, de una sola toma, que corre sola después del primer clic. No tiene capítulos ni títulos: la cámara fluye de un momento al siguiente y los versos aparecen uno tras otro, letra por letra, sobre la imagen. Solo se detiene en los dos momentos en que quien mira tiene que intervenir.
 
-## 3. ¿Qué encontré?
+No hay letreros que digan qué es cada lado. A la izquierda, agentes de colores que se mueven en corrientes y dejan sus pasos pintados en el suelo; con el tiempo esos pasos forman un camino. A la derecha, una cuadrícula donde algo aprende de ellos y lo devuelve en orden, pero sin dejar huella.
 
-Salió como esperaba el contraste entre los dos lados: se nota la diferencia sin tener que explicarla.
+La película pasa por seis momentos:
 
-Me sorprendió lo de la avalancha: cuando unos cruzan, los demás los siguen. Se parece a lo que pasa en clase con la IA.
+1. **Los pasos.** Los agentes deambulan y dejan huella. *antes de saber, solo había pasos.*
+2. **El espejo.** Del otro lado aparece la cuadrícula, que copia sus formas. *del otro lado, algo nos miraba con paciencia.*
+3. **La corriente.** Uno a uno, los agentes cruzan. *era tan fácil dejarse llevar.*
+4. **Volver.** Quien mira los trae de regreso con el mouse. *vuelve distinto: con lo que aprendió allá, y con lo que es aquí.*
+5. **La quietud.** Si nadie interviene, todos cruzan. *si nadie cruza a buscarlos, todo queda perfecto. perfecto, y quieto.*
+6. **La mano.** Al pasar el cursor sobre ellos, todos florecen. *pero si tomas lo que aprendiste y le pones tu mano, nace algo que nadie más podría haber hecho.*
+
+**Lo que vuelve.** Los que cruzaron aprendieron el orden del otro lado. Cuando alguien los trae de vuelta no regresan como eran: se convierten en una pieza única (flor, copo de nieve, girasol o nota musical) que mezcla las dos cosas. Una ecuación o una simetría, que es lo aprendido, y unos parámetros que salen de la semilla de ese agente, que es lo propio. Por eso no hay dos iguales.
+
+**El final.** La cámara sube y entra en una espiral que gira como una galaxia, hecha de todos los que volvieron. Cada pieza deja una estela de luz al girar, y con el tiempo las estelas dibujan anillos. Detrás, muy tenue, gira un astrolabio dorado. En el ojo vacío del centro aparece la reflexión, inspirada en la frase de Neil Armstrong al llegar a la Luna:
+
+> ¿para qué tomarte el trabajo?
+> para la máquina, fue solo una línea más.
+> para mí, fue el primer paso de algo que nadie más podía crear.
+
+**La música** es original y se genera en vivo en el navegador, con aire medieval y folk: un bordón como de gaita, una flauta en modo dórico, arpa y bodhrán en 6/8. Cambia con la historia: del otro lado aparece una máquina fría y exacta, en la corriente la flauta se apaga, al traerlos de vuelta entra el tambor como un corazón, en la quietud no queda casi nada, y al final todo vuelve.
+
+**Para que se sienta como película** la imagen tiene barras de cine, grano, un temblor muy leve como de proyector viejo, fugas de luz cálida, filigranas finas en las esquinas y una línea dorada abajo que avanza con la historia.
+
+---
+
+## ¿Cómo interpreté la pregunta?
+
+Al principio lo pensé como humano contra IA: agentes libres que al cruzar se vuelven rígidos. Mientras lo diseñaba me di cuenta de que eso decía que la IA es mala, y yo no pienso eso. Lo cambié: del otro lado no hay un enemigo sino algo que aprende de nosotros, y de lo que nosotros también podemos aprender. Lo que importa es no quedarse allá: traer lo aprendido de vuelta y ponerle la mano. Ahí aparece lo único.
+
+## ¿Cómo lo exploré?
+
+Primero diseñé la obra y después le pedí a Claude que la convirtiera en código. Lo hice a propósito: si mi idea es que de la IA se aprende y uno pone su intervención, la obra tenía que hacerse así.
+
+Las decisiones fueron mías: los dos lados, que al cruzar mantuvieran su color, que la IA copiara y ordenara, que los que vuelven fueran únicos, los dos desenlaces, quitar los letreros, que fuera una sola toma sin capítulos, que los versos fueran poéticos, que al final quedaran estelas, la música medieval y la reflexión final. También probé una versión en estilo de caligrafía japonesa, en rojo y negro, con modelos 3D; la descarté porque esta se sentía más mía. Usé como referente la obra *Ontología* de una compañera: me mostró que una entrega se siente terminada cuando no necesita explicarse.
+
+Técnicas del curso: ruido de Perlin para el deambular y para un campo de flujo que forma las corrientes (unidad 1), vectores y fuerzas (unidades 2 y 3), partículas y estelas (unidad 5), bandada de Reynolds y comportamientos de dirección (unidad 6), y three.js con una cámara que sigue planos encadenados. Para las piezas y la espiral: la curva rosa `r = cos(kθ)` y el ángulo áureo.
+
+## ¿Qué encontré?
+
+El contraste entre los dos lados funciona sin explicarlo. Me sorprendió que, al probarla, todos los agentes cruzaban casi al mismo tiempo: cuando unos se iban, la bandada arrastraba a los demás. Se parece a lo que pasa en clase con la IA. Se ajustó para que cada uno ceda en su propio momento.
 
 Queda abierto si hacer el código con IA contradice la obra o la confirma. Yo creo que la confirma, porque las decisiones fueron mías, pero entiendo que alguien piense lo contrario.
 
-## 4. ¿Qué aprendí realmente?
+## ¿Qué aprendí realmente?
 
-Puedo explicar qué pasa en cada escena, qué técnica del curso usa cada parte y dónde se cambian los textos y los comportamientos. El código lo entiendo más a nivel de ideas que línea por línea, igual que me pasó con three.js en el curso. Siendo honesto, si me tocara escribirlo desde cero no podría solo.
+Puedo explicar qué pasa en cada momento, qué técnica usa cada parte y dónde se cambian los versos, los movimientos de cámara y los comportamientos. El código lo entiendo más a nivel de ideas que línea por línea, igual que me pasó con three.js en el curso.
 
-## 5. ¿Qué sentido tuvo tomarme el trabajo?
+## ¿Qué sentido tuvo tomarme el trabajo?
 
-Lo que me hizo continuar en el curso fue, primero, que necesitaba aprobar. Y segundo, que aunque uno use la IA, algo de lo que se hace queda grabado y sirve para trabajos futuros.
+Frente a la pregunta de Hodgin: sí vale la pena. Para la máquina, lo que hice fue una línea más. Para mí fue el primer paso de algo que nadie más podía crear.
 
-Frente a la pregunta de Hodgin: sí vale la pena, pero no por el resultado, porque la IA también produce resultados bonitos. Vale la pena por lo que solo aparece cuando alguien se toma el trabajo, como los agentes que vuelven y ya no son iguales a ningún otro.
+---
 
